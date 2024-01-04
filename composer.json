@@ -1,10 +1,14 @@
 {
-	"name": "quilhasoft/opencnabphp",
+	"name": "LouisRiverstone/opencnabphp",
 	"type": "library",
-	"description": "Biblioteca multibanco para geração e leitura de arquivos Cnab de remessa e retorno",
+	"description": "Fork do OpenCNABPHP do Quilhasoft, com algumas correções e melhorias.",
 	"keywords": ["boleto", "remessa", "retorno", "cnabphp", "cnab240", "cnab400","itau","bradesco","caixa","santander","sicoob","uniprime"],
 	"license": "MIT",
 	"authors": [
+		{
+			"name": "Luiz Gustavo Benicio Neves",
+			"email": "luizgustavobenicio@gmail.com"
+		},
 		{
 			"name": "Rogerio Muniz de Castro",
 			"email": "rogerio@quilhasoft.com.br"
