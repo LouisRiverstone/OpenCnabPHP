@@ -1,5 +1,5 @@
 {
-	"name": "LouisRiverstone/opencnabphp",
+	"name": "louisriverstone/opencnabphp",
 	"type": "library",
 	"description": "Fork do OpenCNABPHP do Quilhasoft, com algumas correções e melhorias.",
 	"keywords": ["boleto", "remessa", "retorno", "cnabphp", "cnab240", "cnab400","itau","bradesco","caixa","santander","sicoob","uniprime"],
